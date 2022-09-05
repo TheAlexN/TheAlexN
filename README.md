@@ -1,16 +1,15 @@
-### Hi there 👋
+# ... Hello there!
 
-<!--
-**TheAlexN/TheAlexN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a freshman student at Colorado University of Boulder.
 
-Here are some ideas to get you started:
+## Progress to Coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have about a year or two on Computer Science and mostly on Javascript.
+As starting in CU Boulder, I have begin to do use Github and learn C++!
+
+## Interest n Hobbies
+
+I enjoy playing Virtual Reality (Beat Saber and Survival Games) the most, I'm interested in coding and I like to play games and meet new people.
+
+## Other Links
+[My Twitter](https://twitter.com/TheAlexN_)
