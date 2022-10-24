@@ -10,6 +10,7 @@ As starting in CU Boulder, I have begin to do use Github and learn C++!
 ## Interest n Hobbies
 
 I enjoy playing Virtual Reality (Beat Saber and Survival Games) the most, I'm interested in coding and I like to play games and meet new people.
+I also enjoy tofu!
 
 ## Other Links
 [My Twitter](https://twitter.com/TheAlexN_)
